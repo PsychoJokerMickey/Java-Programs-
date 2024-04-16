@@ -1,2 +1,2 @@
 # Java-Programs-
-Small programs I've create while learning Java
+Small programs I've created while learning Java
